@@ -9,7 +9,7 @@ const Footer = () => {
 
         
 
-    This is a great footer copyright.
+    Samuel Russek copyright 2023.
     </Container>
    
     </Navbar>  

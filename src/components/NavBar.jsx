@@ -9,14 +9,14 @@ function NavBar() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">Samuel Portfolio</Navbar.Brand>
+        <Navbar.Brand href="#home">Samuel's Home Page</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link as={Link} to="/about">Features</Nav.Link>
-            <Nav.Link as={Link} to="/contact">Pricing</Nav.Link>
-            <Nav.Link as={Link} to="/resume">Pricing</Nav.Link>
-            <Nav.Link as={Link} to="/portfolio">Pricing</Nav.Link>
+            <Nav.Link as={Link} to="/about">About</Nav.Link>
+            <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
+            <Nav.Link as={Link} to="/resume">Resume</Nav.Link>
+            <Nav.Link as={Link} to="/portfolio">Portfolio</Nav.Link>
 
 
             
