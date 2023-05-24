@@ -8,7 +8,7 @@ const Project = ({title, deployLink, githubRepo, img} ) => {
 <h1>{title}</h1>
 
 <a target="_blank" href={deployLink}><img src={img} alt="img" className='deployImg'/></a>
-<a target="_blank" href={githubRepo}><img src="https://raw.githubusercontent.com/SamRF13/20-ReactPortfolio/main/src/assets/GithubLogo.png" alt="GitLogo" className='gitLogo'/></a>
+<a target="_blank" href={githubRepo}><img src="src/assets/GithubLogo.png" alt="GitLogo" className='gitLogo'/></a>
 
     </div>
   
