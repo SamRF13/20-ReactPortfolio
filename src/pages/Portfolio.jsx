@@ -8,21 +8,21 @@ const Portfolio = () => {
 title = {"Note Taker"}
 deployLink = {"https://calendar-11.herokuapp.com/"}
 githubRepo  = {"https://github.com/SamRF13/11-Note-Creator"}
-img = {"/assets/NoteTakerImg.png"}
+img = {"/imagesAssets/NoteTakerImg.png"}
 /> 
 
 <Project
 title = {"Weather App"}
 deployLink = {"https://samrf13.github.io/06-Weather-app/"}
 githubRepo  = {"https://github.com/SamRF13/06-Weather-app/"}
-img = {"/assets/Calendar2Logo.png"}
+img = {"/imagesAssets/Calendar2Logo.png"}
 /> 
 
 <Project
 title = {"Calendar App"}
 deployLink = {"https://samrf13.github.io/05-Calendar/"}
 githubRepo  = {"https://github.com/SamRF13/05-Calendar"}
-img = {"/assets/CalendarLogo.png"}
+img = {"/imagesAssets/CalendarLogo.png"}
 /> 
 
     </div>
