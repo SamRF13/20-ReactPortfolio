@@ -8,7 +8,7 @@ const Portfolio = () => {
 title = {"Note Taker"}
 deployLink = {"https://calendar-11.herokuapp.com/"}
 githubRepo  = {"https://github.com/SamRF13/11-Note-Creator"}
-img = {"src/assets/NoteTakerImg.png"}
+img = {"https://raw.githubusercontent.com/SamRF13/20-ReactPortfolio/main/src/assets/NoteTakerImg.png"}
 /> 
 
 <Project
