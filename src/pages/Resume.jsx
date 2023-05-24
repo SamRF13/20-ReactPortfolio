@@ -6,7 +6,7 @@ const Resume = () => {
 <h2>Resume</h2>
 <p>I am Samuel Russek.
   I have experience with the following technologies.
-  Html, Bootstrap, Javascript, Mongoose, Express, Sequelize, React≈.
+  Html, Bootstrap, Javascript, Mongoose, Express, Sequelize, React.
     </p>
 
     </div>
