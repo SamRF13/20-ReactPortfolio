@@ -15,7 +15,7 @@ img = {"/docs/assets/NoteTakerImg.png"}
 title = {"Weather App"}
 deployLink = {"https://samrf13.github.io/06-Weather-app/"}
 githubRepo  = {"https://github.com/SamRF13/06-Weather-app/"}
-img = {"/docs/assets/Calendar2Logo.png"}
+img = {"assets/Calendar2Logo.png"}
 /> 
 
 <Project
