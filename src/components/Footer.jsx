@@ -9,7 +9,7 @@ const Footer = () => {
 
         
 
-    Samuel Russek copyright 2023.
+    Samuel Russek copyright © 2023.
     </Container>
    
     </Navbar>  
