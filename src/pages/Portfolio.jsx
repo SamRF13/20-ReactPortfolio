@@ -2,7 +2,7 @@ import React from 'react'
 import Project from '../components/Project'
 
 import NoteCreator from './images/NoteTakerImg.png'
-import WeatherApp from './images/images/Calendar2Logo.png'
+import WeatherApp from './images/Calendar2Logo.png'
 import CalendarApp from '/images/CalendarLogo.png'
 
 

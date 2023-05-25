@@ -1,7 +1,7 @@
 import React from 'react'
 import Nav from 'react-bootstrap/Nav';
 import { Link } from 'react-router-dom';
-import GitLogo from '/images/GithubLogo.png'
+import GitLogo from '../pages/images/GithubLogo.png'
 
 const Project = ({title, deployLink, githubRepo, img} ) => {
     return (
@@ -9,7 +9,7 @@ const Project = ({title, deployLink, githubRepo, img} ) => {
 <h1>{title}</h1>
 
 <a target="_blank" href={deployLink}><img src={img} alt="img" className='deployImg'/></a>
-<a target="_blank" href={githubRepo}><img img = {NoteCreator} alt="GitLogo" className='gitLogo'/></a>
+<a target="_blank" href={githubRepo}><img img = {GitLogo} alt="GitLogo" className='gitLogo'/></a>
     </div>
   
   
