@@ -2,6 +2,9 @@ import React from 'react'
 import Project from '../components/Project'
 
 import NoteCreator from './images/NoteTakerImg.png'
+import WeatherApp from './images/images/Calendar2Logo.png'
+import CalendarApp from '/images/CalendarLogo.png'
+
 
 const Portfolio = () => {
   return (
@@ -17,14 +20,14 @@ img = {NoteCreator}
 title = {"Weather App"}
 deployLink = {"https://samrf13.github.io/06-Weather-app/"}
 githubRepo  = {"https://github.com/SamRF13/06-Weather-app/"}
-img = {"/assets/images/Calendar2Logo.png"}
+img = {WeatherApp}
 /> 
 
 <Project
 title = {"Calendar App"}
 deployLink = {"https://samrf13.github.io/05-Calendar/"}
 githubRepo  = {"https://github.com/SamRF13/05-Calendar"}
-img = {"/assets/images/CalendarLogo.png"}
+img = {CalendarApp}
 /> 
 
     </div>
