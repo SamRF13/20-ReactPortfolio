@@ -2,11 +2,7 @@ import React from 'react'
 import Project from '../components/Project'
 
 import NoteCreator from './images/NoteTakerImg.png'
-import PasswordGeneratorImage from '../pages/images/PasswordGenerator.png'
-import DynamicQuizImage from '../pages/images/DynamicQuiz.png'
-import NoteTakerImage from '../pages/images/NoteTaker.png'
-import BlogEditorImage from '../pages/images/BlogEditor.png'
-import PWAImage from '../pages/images/PWA.png'
+
 
 const Portfolio = () => {
   return (
