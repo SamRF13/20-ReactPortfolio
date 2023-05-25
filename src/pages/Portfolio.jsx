@@ -3,7 +3,7 @@ import Project from '../components/Project'
 
 import NoteCreator from './images/NoteTakerImg.png'
 import WeatherApp from './images/Calendar2Logo.png'
-import CalendarApp from '/images/CalendarLogo.png'
+import CalendarApp from './images/CalendarLogo.png'
 
 
 const Portfolio = () => {
