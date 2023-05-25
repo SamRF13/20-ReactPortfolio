@@ -9,7 +9,7 @@ const Project = ({title, deployLink, githubRepo, img} ) => {
 <h1>{title}</h1>
 
 <a target="_blank" href={deployLink}><img src={img} alt="img" className='deployImg'/></a>
-<a target="_blank" href={githubRepo}><img src= {GitLogo} alt="GitLogo" className='gitLogo'/></a>
+<a target="_blank" href={githubRepo}><img src={GitLogo} alt="GitLogo" className='gitLogo'/></a>
     </div>
   
   
