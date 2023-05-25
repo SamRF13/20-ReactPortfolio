@@ -3,7 +3,6 @@ import Project from '../components/Project'
 
 import NoteCreator from './images/NoteTakerImg.png'
 
-
 const Portfolio = () => {
   return (
     <div className='one'>
